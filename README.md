@@ -1,15 +1,7 @@
-##Hi  my name is Arthur Porto 
+## hi mi name is Arthur Porto
 
 <div>
   <a href="https://github.com/portoDEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=portoDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portoDEV&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-    <img align="center" alt="Porto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Porto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Porto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<div> ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?portoDEV=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?portoDEV=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=dark"/>
 </div>
