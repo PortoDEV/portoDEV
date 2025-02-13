@@ -29,6 +29,4 @@
 ### ⚡ Fun Fact
 I believe in the power of open-source communities and love contributing to projects that make a difference!
 
-### 🐍 Snake Animation
-![Snake animation](https://github.com/PortoDEV/PortoDEV/blob/output/github-contribution-grid-snake.svg)
 
