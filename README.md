@@ -29,4 +29,8 @@
 ### ⚡ Fun Fact
 I believe in the power of open-source communities and love contributing to projects that make a difference!
 
-
+<div>
+<a href="https://github.com/PortoDEV">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortoDEV&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PortoDEV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
