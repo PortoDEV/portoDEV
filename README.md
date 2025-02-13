@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔰 Developer since 2019.
-- 💻 Passionate about Javascript, Python, and Lua.
+- 💻 languages Javascript, Python, and Lua.
 - 🚀 Continuously learning and exploring languages of the future.
 
 ---
