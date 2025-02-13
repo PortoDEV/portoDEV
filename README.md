@@ -1,4 +1,4 @@
-## hi my name is arthur Porto
+## hi my name is Arthur Porto
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=portoDEV&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
