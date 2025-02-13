@@ -21,21 +21,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=transparent" />
-</div>
-
----
-
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Arthur_Porto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-porto-595094344)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PortoDEV)
 
 ---
 
 ### ⚡ Fun Fact
 I believe in the power of open-source communities and love contributing to projects that make a difference!
+
+---
+
+### 🐍 Snake Animation
+![Snake animation](https://github.com/PortoDEV/PortoDEV/blob/output/github-contribution-grid-snake.svg)
